@@ -1,4 +1,5 @@
-## Hi there 👋
+[](https://komarev.com/ghpvc/?username=lennonsangel)
+<img width="1000" height="1000" alt="3" src="https://files.catbox.moe/lmp63j.webp" />
 
 <!--
 **the-seance/the-seance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
