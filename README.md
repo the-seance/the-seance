@@ -1,5 +1,5 @@
 [](https://komarev.com/ghpvc/?username=lennonsangel)
-<img width="1000" height="1000" alt="3" src="https://files.catbox.moe/lmp63j.webp" />
+<img width="1000" height="600" alt="3" src="https://64.media.tumblr.com/65734aecb64a34baa60b4ff10033605e/7e539734c18449be-58/s500x750/3a6b863b8f80daeeffb49714a46edc4a0e205d96.gifv" />
 
 <!--
 **the-seance/the-seance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
