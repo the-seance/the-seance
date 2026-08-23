@@ -1,5 +1,5 @@
 [](https://komarev.com/ghpvc/?username=lennonsangel)
-<img width="1000" height="600" alt="3" src="https://64.media.tumblr.com/65734aecb64a34baa60b4ff10033605e/7e539734c18449be-58/s500x750/3a6b863b8f80daeeffb49714a46edc4a0e205d96.gifv" />
+<img width="1000" height="600" alt="3" src="https://64.media.tumblr.com/7f150b3d3cd19d3ef5bbc7f03f4a3fc8/7e5595018206f7d9-30/s1280x1920/75cb7fb8a6cbdb791071cd5aa3ce126c39d42fcd.gifv" />
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nisslneonwbak7qo5ow4v7xfci&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)
 <!--
 **the-seance/the-seance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
