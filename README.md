@@ -1,6 +1,7 @@
-[](https://komarev.com/ghpvc/?username=lennonsangel)
-<img width="1000" height="600" alt="3" src="https://64.media.tumblr.com/7f150b3d3cd19d3ef5bbc7f03f4a3fc8/7e5595018206f7d9-30/s1280x1920/75cb7fb8a6cbdb791071cd5aa3ce126c39d42fcd.gifv" />
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nisslneonwbak7qo5ow4v7xfci&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)
+<img width="1000" height="200" alt="3" src="https://64.media.tumblr.com/9dedfe861c34447776e3a1810b239e01/67070dadb5b7d37c-62/s640x960/1295829c1762745aa5b33814745820d6ea7120e9.gifv" />
+<img width="1000" height="700" alt="3" src="https://64.media.tumblr.com/5601a39e034e4735450f6a56369098c7/58c009cd703bd9e2-45/s1280x1920/99b655a7d63e4b8d771c1962098a814bcdb3d3a6.jpg" />
+<img width="1000" height="100" alt="3" src="https://64.media.tumblr.com/37338c38e40e6646e1b9b68b2dc35fb1/3c4e08aeb85da661-4b/s400x600/7eafcd3a30e3949585b65d9f389129f37d8f1ace.gifv" />
+
 <!--
 **the-seance/the-seance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
